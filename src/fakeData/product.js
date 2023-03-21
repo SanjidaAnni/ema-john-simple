@@ -1,4 +1,4 @@
- [
+export const products =  [
     {
         "key": "B002RL8IYK",
         "category": "laptop",
